@@ -1,6 +1,4 @@
 # Lab: Investigating the Threat Landscape
-**Course:** Cisco Cybersecurity Essentials  
-**Certification:** CCST Cybersecurity Prep
 
 ##  Project Overview
 This lab involved a multi-stage investigation into how vulnerabilities—both technical and human—are exploited by threat actors. I analyzed three distinct scenarios to identify, exploit, and propose remediations for common security gaps in a simulated enterprise and home environment.
